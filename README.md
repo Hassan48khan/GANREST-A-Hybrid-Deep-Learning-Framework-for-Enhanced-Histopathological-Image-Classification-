@@ -1,0 +1,2 @@
+# GANREST-A-Hybrid-Deep-Learning-Framework-for-Enhanced-Histopathological-Image-Classification-
+GANREST: Hybrid deep learning framework combining SRGAN for super-resolution with fused ResNet-50/152 architectures. Achieves 99.53% accuracy on IDC and 99.84% on BreakHis datasets for breast histopathological image classification, outperforming individual ResNets. Enhances diagnostic reliability via improved image quality and multi-scale features.
